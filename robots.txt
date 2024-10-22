@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zensinsie.github.io/zensinsie.txt.gz
+Sitemap: https://zensinsie.github.io/app/zensinsie.txt.gz
+Sitemap: https://zensinsie.github.io/assets/zensinsie.txt.gz
+Sitemap: https://zensinsie.github.io/css/zensinsie.txt.gz
+Sitemap: https://zensinsie.github.io/includes/zensinsie.txt.gz
+Sitemap: https://zensinsie.github.io/item/zensinsie.txt.gz
+Sitemap: https://zensinsie.github.io/src/zensinsie.txt.gz
